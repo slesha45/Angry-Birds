@@ -249,7 +249,7 @@ class Pig():
 class NormalPig(Pig):
     def __init__(self, x, y):
         # Base life = 12 for normal pig
-        Pig.__init__(self, x, y, c.NORMAL_PIG, 12)
+        Pig.__init__(self, x, y, c.NORMAL_PIG, 2)
 
     def load_images(self):
         self.images_list = []
