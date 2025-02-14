@@ -357,6 +357,18 @@ NEAR_BLACK   = (19, 15, 48)
 COMBLUE      = (233, 232, 255)
 GOLD         = (255, 215, 0)
 
+#__author__ = 'marble_xu'
+
+# ...other constants...
+
+# Difficulty Controls
+DIFFICULTY_MULTIPLIER = 1.0
+CURRENT_DIFFICULTY_LABEL = "MEDIUM"
+CURRENT_DIFFICULTY_VALUE = 0.5
+
+# ...
+
+
 # Background Color
 BGCOLOR = WHITE
 
